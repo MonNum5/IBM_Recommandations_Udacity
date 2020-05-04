@@ -5,6 +5,8 @@ This repository contains the code for a recommendation system for IBM Watson Stu
 Recommendation systems are a common to increase the interactions of e.g. users with a internet platform. In this repo I build and apply recommendation systems based on different strategies to make predictions for the users of the IBM Waston Studio platform. 
 
 ## File description
+
+```bash
 ├── Readme.md
 ├── Recommendations_with_IBM.html
 ├── Recommendations_with_IBM.ipynb
@@ -18,7 +20,7 @@ Recommendation systems are a common to increase the interactions of e.g. users w
 ├── top_20.p
 ├── top_5.p
 └── user_item_matrix.p
-
+```
 ## Code Steps
 
 ### I. Exploratory Data Analysis
