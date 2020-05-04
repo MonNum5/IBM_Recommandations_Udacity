@@ -1,14 +1,23 @@
 # Recommendation System for IBM
-
 This repository contains the code for a recommendation system for IBM Watson Studio community data. It is project for my Udacity Data Science course.
 
 ## Project Motivation
-
-
-## Results
-
+Recommendation systems are a common to increase the interactions of e.g. users with a internet platform. In this repo I build and apply recommendation systems based on different strategies to make predictions for the users of the IBM Waston Studio platform. 
 
 ## File description
+├── Readme.md
+├── Recommendations_with_IBM.html
+├── Recommendations_with_IBM.ipynb
+├── content_similarty_matrix.p
+├── data
+│   ├── articles_community.csv
+│   └── user-item-interactions.csv
+├── project_tests.py
+├── requirements.txt
+├── top_10.p
+├── top_20.p
+├── top_5.p
+└── user_item_matrix.p
 
 ## Code Steps
 
